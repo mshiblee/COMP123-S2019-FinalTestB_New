@@ -15,6 +15,10 @@ namespace COMP123_S2019_FinalTestB.Objects
 {
     public class Character
     {
+        // Add Names
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+
         // Character Abilities
         public string Strength { get; set; }
         public string Dexterity { get; set; }

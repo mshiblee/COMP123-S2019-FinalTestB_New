@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 /*
- * STUDENT NAME:
- * STUDENT ID:
+ * STUDENT NAME: Muhammad Shiblee
+ * STUDENT ID: 301064587
  * DESCRIPTION: This is the Item Class.
  *              Used for Inventory Management.
  */
